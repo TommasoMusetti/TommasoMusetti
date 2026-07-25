@@ -4,7 +4,6 @@ Full-stack developer from Lucca, Italy 🇮🇹 — Laravel on the backend, Vue 
 
 - 🔧 Backend dev — Laravel · Filament · Pest
 - 🛠️ Building [MyPrompt](https://myprompt.dev) — save, organize and reuse your AI prompts (web app + browser extension)
-- 🎮 Designing **The Institute**, an incremental idle game (Vue 3 + TypeScript + Tauri)
 - 🏠 Self-hosting enthusiast — Navidrome + Tailscale + local LLMs on a Mac mini M4
 - 🏀 Basketball when I'm not at the keyboard
 
