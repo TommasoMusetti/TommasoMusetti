@@ -6,7 +6,6 @@ Full-stack developer from Lucca, Italy 🇮🇹 — Laravel on the backend, Vue 
 - 🛠️ Building [MyPrompt](https://myprompt.dev) — save, organize and reuse your AI prompts (web app + browser extension)
 - 🎮 Designing **The Institute**, an incremental idle game (Vue 3 + TypeScript + Tauri)
 - 🏠 Self-hosting enthusiast — Navidrome + Tailscale + local LLMs on a Mac mini M4
-- 🐧 Arch Linux · Ghostty · Starship · Catppuccin everywhere
 - 🏀 Basketball when I'm not at the keyboard
 
 ## Stack
@@ -28,7 +27,6 @@ Full-stack developer from Lucca, Italy 🇮🇹 — Laravel on the backend, Vue 
 **Tools & infra**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white)
 
