@@ -39,7 +39,7 @@ Full-stack developer from Lucca, Italy 🇮🇹 — Laravel on the backend, Vue 
 
 ---
 
-💬 Reach me: [myprompt.dev](https://myprompt.dev) · [LinkedIn](https://linkedin.com/in/tommaso-musetti/)
+💬 Reach me: [LinkedIn](https://linkedin.com/in/tommaso-musetti/)
 
 
 <!--
