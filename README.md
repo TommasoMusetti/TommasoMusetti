@@ -29,15 +29,6 @@ Full-stack developer from Lucca, Italy 🇮🇹 — Laravel on the backend, Vue 
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white)
 
-## Stats
-
-<!-- Sostituisci YOUR_USERNAME con il tuo username GitHub (2 occorrenze) -->
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=catppuccin_mocha&hide_border=true" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=catppuccin_mocha&hide_border=true" alt="Top languages" height="165" />
-</p>
-
----
 
 💬 Reach me: [LinkedIn](https://linkedin.com/in/tommaso-musetti/)
 
